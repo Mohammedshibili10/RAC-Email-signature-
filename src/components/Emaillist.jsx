@@ -276,11 +276,13 @@ export default function Emaillist({ employee, showImage = true }) {
 
   return (
     <>
-      <div
-        ref={signatureRef}
-        className=" flex justify-center items-center p-4 mt-30 "
-        dangerouslySetInnerHTML={{ __html: html }}
-      />
+      <div className="w-full overflow-x-auto mt-10 p-4">
+        <div
+          ref={signatureRef}
+          className="w-max mx-auto"
+          dangerouslySetInnerHTML={{ __html: html }}
+        />
+      </div>
 
       <div className="flex justify-center mt-4">
         <button

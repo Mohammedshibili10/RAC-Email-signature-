@@ -1,5 +1,5 @@
 import React from 'react'
-import { MdOutlineEmail } from 'react-icons/md'
+import { MdOutlineEmail, MdClose } from 'react-icons/md'
 
 const initials = (first = '', second = '') =>
   ((first[0] ?? '') + (second[0] ?? '')).toUpperCase()
@@ -7,17 +7,36 @@ const initials = (first = '', second = '') =>
 const fullName = (emp) =>
   `${emp.Firstname ?? ''} ${emp.Secondname ?? ''}`.trim()
 
-export default function Sidebar({ employees, selectedEmployee, setSelectedEmployee }) {
+export default function Sidebar({ employees, selectedEmployee, setSelectedEmployee, open = false, onClose }) {
+  const handleSelect = (emp) => {
+    setSelectedEmployee(emp)
+    onClose?.()
+  }
+
   return (
-    <aside className="flex flex-col w-64 shrink-0 h-full bg-gray-900 border-r border-gray-800 py-6">
-      <div className="flex items-center gap-3 px-5">
-        <div className="flex items-center justify-center w-11 h-11 bg-white border border-gray-700 rounded-full">
-          <MdOutlineEmail className="text-2xl text-gray-800" />
+    <aside
+      className={`fixed md:static inset-y-0 left-0 z-40 flex flex-col w-64 shrink-0 h-full bg-gray-900 border-r border-gray-800 py-6 transform transition-transform duration-200 md:translate-x-0 ${
+        open ? 'translate-x-0' : '-translate-x-full'
+      }`}
+    >
+      <div className="flex items-center justify-between gap-3 px-5">
+        <div className="flex items-center gap-3">
+          <div className="flex items-center justify-center w-11 h-11 bg-white border border-gray-700 rounded-full">
+            <MdOutlineEmail className="text-2xl text-gray-800" />
+          </div>
+
+          <h1 className="text-lg font-semibold text-gray-100">
+            Email Signature
+          </h1>
         </div>
 
-        <h1 className="text-lg font-semibold text-gray-100">
-          Email Signature
-        </h1>
+        <button
+          onClick={onClose}
+          className="md:hidden text-gray-400 hover:text-white"
+          aria-label="Close menu"
+        >
+          <MdClose className="text-2xl" />
+        </button>
       </div>
 
       <hr className="my-5 border-gray-800" />
@@ -29,7 +48,7 @@ export default function Sidebar({ employees, selectedEmployee, setSelectedEmploy
           return (
             <button
               key={emp.id}
-              onClick={() => setSelectedEmployee(emp)}
+              onClick={() => handleSelect(emp)}
               className={`flex items-center gap-3 w-full px-3 py-2 rounded-lg text-left transition ${
                 isActive
                   ? 'bg-gray-800'

@@ -115,6 +115,7 @@ function App() {
   )
   const [selectedEmployee, setSelectedEmployee] = useState(employees[0])
   const [showImage, setShowImage] = useState(true)
+  const [sidebarOpen, setSidebarOpen] = useState(false)
 
   const handleLogin = () => {
     localStorage.setItem('rac_auth', 'true')
@@ -132,15 +133,24 @@ function App() {
 
   return (
     <div className="flex h-screen overflow-hidden">
+      {sidebarOpen && (
+        <div
+          className="fixed inset-0 z-30 bg-black/50 md:hidden"
+          onClick={() => setSidebarOpen(false)}
+        />
+      )}
+
       <Sidebar
         employees={employees}
         selectedEmployee={selectedEmployee}
         setSelectedEmployee={setSelectedEmployee}
+        open={sidebarOpen}
+        onClose={() => setSidebarOpen(false)}
       />
       <div className="flex flex-col flex-1 overflow-hidden">
-        <Navbar onLogout={handleLogout} />
-        <main className="flex-1 overflow-y-auto bg-gray-900 p-6">
-          <div className="flex justify-center  gap-4 mb-6">
+        <Navbar onLogout={handleLogout} onMenuClick={() => setSidebarOpen(true)} />
+        <main className="flex-1 overflow-y-auto bg-gray-900 p-4 md:p-6">
+          <div className="flex flex-wrap justify-center gap-4 mb-6">
           <button
             className={`font-bold py-2 px-4 rounded ${showImage ? 'bg-blue-500 hover:bg-blue-700 text-white' : 'bg-gray-700 hover:bg-gray-600 text-gray-200'}`}
             onClick={() => setShowImage(true)}
