@@ -10,7 +10,7 @@ export default function Login({ onLogin }) {
 
   const handleSubmit = (e) => {
     e.preventDefault()
-    if (username.trim() === 'admin@gmail.com' && password === 'admin123') {
+    if (username.trim() === 'admin@gmail.com' && password === 'rac@partner2026') {
       setError('')
       onLogin()
     } else {
