@@ -56,7 +56,7 @@ function App() {
       designation: "HR Executive",
       phone: "+91 90723 74000",
       email: "reshma@racpartners.in",
-      image: "https://racstartup.com/wp-content/uploads/2026/07/Group-42-1.png",
+      image: "https://racstartup.com/wp-content/uploads/2026/07/reshma.png",
       withoutimage:"https://racstartup.com/wp-content/uploads/2026/07/Group-44.png"
     },
   
@@ -68,6 +68,16 @@ function App() {
       phone: "+91 735 600 4150",
       email: "shafeeq@racpartners.in",
       image: "https://racstartup.com/wp-content/uploads/2026/06/Group-42.png",
+      withoutimage:"https://racstartup.com/wp-content/uploads/2026/07/Group-44.png"
+    },
+    {
+      id:8 ,
+      Firstname: "Muhammed ",
+      Secondname: "Mujaddid kk",
+      designation: "Legal & Documentation officer",
+      phone: "+91 90615 96000",
+      email: "accounts@racpartners.in",
+      image: "https://racstartup.com/wp-content/uploads/2026/07/mujaddid.png",
       withoutimage:"https://racstartup.com/wp-content/uploads/2026/07/Group-44.png"
     },
     {
