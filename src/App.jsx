@@ -10,7 +10,7 @@ function App() {
     {
       id: 1,
       Firstname: "Shibili ",
-      Secondname: "Rahman Kp",
+      Secondname: "Rahman K p",
       designation: "Chairman",
       phone: "+91 73064 52529",
       email: "shibilirahiman.sr@racpartners.in",
@@ -20,7 +20,7 @@ function App() {
       {
       id: 2,
       Firstname: "",
-      Secondname: "Vipin vk",
+      Secondname: "Vipin v k",
       designation: "Head of Operations- founder's  office",
       phone: "+91 70341 68000",
       email: "vipin@racpartners.in",
@@ -52,7 +52,7 @@ function App() {
     {
       id: 5,
       Firstname: "",
-      Secondname: "Reshma PA",
+      Secondname: "Reshma P A",
       designation: "HR Executive",
       phone: "+91 90723 74000",
       email: "reshma@racpartners.in",
@@ -63,7 +63,7 @@ function App() {
     {
       id: 6,
       Firstname: "MUHAMMED",
-      Secondname: "SHAFEEQ PC",
+      Secondname: "SHAFEEQ P C",
       designation: "IT Manager",
       phone: "+91 735 600 4150",
       email: "shafeeq@racpartners.in",
