@@ -35,7 +35,7 @@ function App() {
       designation: "Operations Manager",
       phone: "+91 80751 97908",
       email: "rajath@racpartners.in",
-      image: "https://racstartup.com/wp-content/uploads/2026/07/Group-42-3.png",
+      image: "https://racstartup.com/wp-content/uploads/2026/07/rejith.png",
       withoutimage:"https://racstartup.com/wp-content/uploads/2026/07/Group-44.png"
 
     },
