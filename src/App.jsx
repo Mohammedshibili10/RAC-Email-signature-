@@ -71,7 +71,7 @@ function App() {
       withoutimage:"https://racstartup.com/wp-content/uploads/2026/07/Group-44.png"
     },
     {
-      id:8 ,
+      id:7 ,
       Firstname: "Muhammed ",
       Secondname: "Mujaddid kk",
       designation: "Legal & Documentation officer",
@@ -81,7 +81,18 @@ function App() {
       withoutimage:"https://racstartup.com/wp-content/uploads/2026/07/Group-44.png"
     },
     {
-      id: 7,
+  id: 8,
+  Firstname: "",
+  Secondname: "Adarsh E M",
+  designation: "Startup Intake Coordinator",
+  phone: "+91 70340 23111",
+  email: "adarsh@racpartners.in",
+ 
+  withoutimage:"https://racstartup.com/wp-content/uploads/2026/07/Group-44.png"
+
+    },
+    {
+      id: 9,
       Firstname: "",
       Secondname: "Admin",
       designation: "Admin",
@@ -91,7 +102,7 @@ function App() {
      
     },
     {
-      id: 8,
+      id: 10,
       Firstname: "",
       Secondname: "Connect",
       designation: "Connect",
@@ -100,7 +111,7 @@ function App() {
       withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png"
     },
      {
-      id: 9,
+      id: 11,
       Firstname: "",
       Secondname: "Accounts",
       designation: "Accounts",
