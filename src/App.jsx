@@ -55,7 +55,7 @@ function App() {
       Secondname: "Reshma P A",
       designation: "HR Executive",
       phone: "+91 90723 74000",
-      email: "reshma@racpartners.in",
+      email: "hr@racpartners.in",
       image: "https://racstartup.com/wp-content/uploads/2026/07/reshma.png",
       withoutimage:"https://racstartup.com/wp-content/uploads/2026/07/Group-44.png"
     },
