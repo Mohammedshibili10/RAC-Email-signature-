@@ -87,7 +87,7 @@ function App() {
   designation: "Startup Intake Coordinator",
   phone: "+91 70340 23111",
   email: "adarsh@racpartners.in",
- 
+  image:"https://racstartup.com/wp-content/uploads/2026/07/rac-adarsh.png",
   withoutimage:"https://racstartup.com/wp-content/uploads/2026/07/Group-44.png"
 
     },
