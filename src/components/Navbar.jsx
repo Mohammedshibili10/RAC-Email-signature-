@@ -3,8 +3,8 @@ import { MdLogout, MdMenu } from 'react-icons/md'
 
 export default function Navbar({ onLogout, onMenuClick }) {
   return (
-    <header className="flex items-center justify-between px-4 md:px-6 py-4 bg-gray-900 border-b border-gray-800">
-      <div className="flex items-center gap-3">
+    <header className="flex items-center justify-between gap-2 px-4 md:px-6 py-4 bg-gray-900 border-b border-gray-800">
+      <div className="flex items-center gap-3 min-w-0">
         {onMenuClick && (
           <button
             onClick={onMenuClick}
@@ -16,6 +16,7 @@ export default function Navbar({ onLogout, onMenuClick }) {
         )}
         <h1 className="text-lg font-semibold text-gray-100">Signatures</h1>
       </div>
+
       {onLogout && (
         <button
           onClick={onLogout}
