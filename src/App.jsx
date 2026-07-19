@@ -113,7 +113,7 @@ function App() {
       email: "jasira@racpartners.in",
       image: "https://racstartup.com/wp-content/uploads/2026/07/Group-42-2.png",
       withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
-      department: "sales"
+      department: "ip"
     },
 
     // ─── IP Department ───
@@ -124,7 +124,7 @@ function App() {
       designation: "IP Advisor",
       phone: "+91 7034182000",
       email: "sharmina@racpartners.in",
-     
+       image:"https://racstartup.com/wp-content/uploads/2026/07/Group-45-3.png",
       withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
       department: "ip"
     },
@@ -135,7 +135,7 @@ function App() {
       designation: "IP Advisor",
       phone: "+91 8943548000",
       email: "rahnas@racpartners.in",
-    
+       image:"https://racstartup.com/wp-content/uploads/2026/07/Group-45-4.png",
       withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
       department: "ip"
     },
@@ -144,9 +144,9 @@ function App() {
       Firstname: "MUHAMMED ",
       Secondname: "AFNAS .T",
       designation: "IP Advisor",
-      phone: "",
+      phone: "+91 9048731000  ",
       email: "afnas@racpartners.in",
-     
+     image:"https://racstartup.com/wp-content/uploads/2026/07/Group-45-1.png",
       withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
       department: "ip"
     },{
@@ -185,6 +185,17 @@ function App() {
       withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
       department: "it"
     },
+    {
+      id: 17,
+      Firstname: "MUHAMMED ",
+      Secondname: "ABDUL JALAL P",
+      designation: "IP Advisor",
+      phone: "+91 9544178000",
+      email: "",
+      image: "https://racstartup.com/wp-content/uploads/2026/07/Group-45.png",
+      withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
+      department: "ip"
+    }
 
     // Add more IT Department employees below, keeping department: "it".
     // Omit `image` for a without-image-only signature.
