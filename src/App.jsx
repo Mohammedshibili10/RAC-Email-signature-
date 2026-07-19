@@ -6,7 +6,6 @@ import Emaillist from './components/Emaillist'
 import Login from './components/Login'
 
 const DEPARTMENTS = [
-  { id: 'sales', label: 'Sales Department' },
   { id: 'ip', label: 'IP Department' },
   { id: 'it', label: 'IT Department' },
 ]
@@ -103,7 +102,7 @@ function App() {
       withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png"
     },
 
-    // ─── Sales Department ───
+    // ─── IP Department ───
     {
       id: 4,
       Firstname: "Jasira",
@@ -115,8 +114,6 @@ function App() {
       withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
       department: "ip"
     },
-
-    // ─── IP Department ───
     {
       id: 12,
       Firstname: "SHARMINA C ",
@@ -173,6 +170,18 @@ function App() {
     },
    
 
+    {
+      id: 17,
+      Firstname: "MUHAMMED ",
+      Secondname: "ABDUL JALAL P",
+      designation: "IP Advisor",
+      phone: "+91 9544178000",
+      email: "",
+      image: "https://racstartup.com/wp-content/uploads/2026/07/Group-45.png",
+      withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
+      department: "ip"
+    },
+
     // ─── IT Department ───
     {
       id: 6,
@@ -184,17 +193,6 @@ function App() {
       image: "https://racstartup.com/wp-content/uploads/2026/06/Group-42.png",
       withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
       department: "it"
-    },
-    {
-      id: 17,
-      Firstname: "MUHAMMED ",
-      Secondname: "ABDUL JALAL P",
-      designation: "IP Advisor",
-      phone: "+91 9544178000",
-      email: "",
-      image: "https://racstartup.com/wp-content/uploads/2026/07/Group-45.png",
-      withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
-      department: "ip"
     }
 
     // Add more IT Department employees below, keeping department: "it".
