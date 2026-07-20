@@ -121,7 +121,7 @@ function App() {
       designation: "IP Advisor",
       phone: "+91 7034182000",
       email: "sharmina@racpartners.in",
-       image:"https://racstartup.com/wp-content/uploads/2026/07/Group-45-3.png",
+      image: "https://racstartup.com/wp-content/uploads/2026/07/Group-45-3.png",
       withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
       department: "ip"
     },
@@ -132,7 +132,7 @@ function App() {
       designation: "IP Advisor",
       phone: "+91 8943548000",
       email: "rahnas@racpartners.in",
-       image:"https://racstartup.com/wp-content/uploads/2026/07/Group-45-4.png",
+      image: "https://racstartup.com/wp-content/uploads/2026/07/Group-45-4.png",
       withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
       department: "ip"
     },
@@ -143,17 +143,17 @@ function App() {
       designation: "IP Advisor",
       phone: "+91 9048731000  ",
       email: "afnas@racpartners.in",
-     image:"https://racstartup.com/wp-content/uploads/2026/07/Group-45-1.png",
+      image: "https://racstartup.com/wp-content/uploads/2026/07/Group-45-1.png",
       withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
       department: "ip"
-    },{
+    }, {
       id: 15,
       Firstname: "",
       Secondname: "VISMAYA T ",
       designation: "IP Advisor",
       phone: "+91 8943598000",
       email: "racvismaya@gmail.com",
-     
+       image:"https://racstartup.com/wp-content/uploads/2026/07/rac-vismaya.png",
       withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
       department: "ip"
     },
@@ -164,11 +164,11 @@ function App() {
       designation: "IP Advisor",
       phone: "+91 9061035000",
       email: " nabeelalirac@gmail.com ",
-     
+     image:"https://racstartup.com/wp-content/uploads/2026/07/nabeel.png",
       withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
       department: "ip"
     },
-   
+
 
     {
       id: 17,
@@ -191,6 +191,17 @@ function App() {
       phone: "+91 735 600 4150",
       email: "shafeeq@racpartners.in",
       image: "https://racstartup.com/wp-content/uploads/2026/06/Group-42.png",
+      withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
+      department: "it"
+    },
+    {
+      id: 18,
+      Firstname: "Mohammed ",
+      Secondname: "Shibili EK",
+      designation: "Junior Developer",
+      phone: "+91 8590999526",
+      email: "mohammed.shibili@racpartners.in",
+      image: "https://racstartup.com/wp-content/uploads/2026/07/shibili.png",
       withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
       department: "it"
     }
