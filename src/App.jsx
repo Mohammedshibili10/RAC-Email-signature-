@@ -160,7 +160,7 @@ function App() {
     {
       id: 16,
       Firstname: "NABEEL  ",
-      Secondname: "SALI",
+      Secondname: "ALI",
       designation: "IP Advisor",
       phone: "+91 9061035000",
       email: " nabeelalirac@gmail.com ",
