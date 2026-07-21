@@ -204,6 +204,17 @@ function App() {
       image: "https://racstartup.com/wp-content/uploads/2026/07/shibili.png",
       withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
       department: "it"
+    },
+    {
+ id: 19,
+  Firstname: "",
+  Secondname: "ADARSH.PS",
+  designation: "Marketing Manager",
+  phone: "",
+  email: "adarsh.ps@racpartners.in",
+
+  withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
+  
     }
 
     // Add more IT Department employees below, keeping department: "it".
