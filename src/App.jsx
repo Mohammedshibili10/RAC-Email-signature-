@@ -21,8 +21,8 @@ function App() {
       designation: "Chairman",
       phone: "+91 73064 52529",
       email: "shibilirahiman.sr@racpartners.in",
-      image: "https://racstartup.com/wp-content/uploads/2026/07/Group-42-4.png",
-      withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png"
+      image: "https://racpartners.in/wp-content/uploads/2026/07/Group-42-4.png",
+      withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png"
     },
     {
       id: 2,
@@ -31,8 +31,8 @@ function App() {
       designation: "Head of Operations- founder's  office",
       phone: "+91 70341 68000",
       email: "vipin@racpartners.in",
-      image: "https://racstartup.com/wp-content/uploads/2026/07/vipin-vk.png",
-      withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png"
+      image: "https://racpartners.in/wp-content/uploads/2026/07/vipin-vk.png",
+      withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png"
     },
     {
       id: 3,
@@ -41,8 +41,8 @@ function App() {
       designation: "Operations Manager",
       phone: "+91 80751 97908",
       email: "rajath@racpartners.in",
-      image: "https://racstartup.com/wp-content/uploads/2026/07/rejith.png",
-      withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png"
+      image: "https://racpartners.in/wp-content/uploads/2026/07/rejith.png",
+      withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png"
     },
     {
       id: 5,
@@ -51,18 +51,18 @@ function App() {
       designation: "HR Executive",
       phone: "+91 90723 74000",
       email: "hr@racpartners.in",
-      image: "https://racstartup.com/wp-content/uploads/2026/07/reshma.png",
-      withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png"
+      image: "https://racpartners.in/wp-content/uploads/2026/07/reshma.png",
+      withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png"
     },
     {
-      id: 19,
+      id: 15-m ,
       Firstname: "Muhammed ",
       Secondname: "Mujaddid kk",
       designation: "Legal & Documentation officer",
       phone: "+91 90615 96000",
       email: "accounts@racpartners.in",
-      image: "https://racstartup.com/wp-content/uploads/2026/07/mujaddid.png",
-      withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png"
+      image: "https://racpartners.in/wp-content/uploads/2026/07/mujaddid.png",
+      withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png"
     },
     {
       id: 8,
@@ -71,8 +71,8 @@ function App() {
       designation: "Startup Intake Coordinator",
       phone: "+91 70340 23111",
       email: "adarsh@racpartners.in",
-      image: "https://racstartup.com/wp-content/uploads/2026/07/rac-adarsh.png",
-      withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png"
+      image: "https://racpartners.in/wp-content/uploads/2026/07/rac-adarsh.png",
+      withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png"
     },
     {
       id: 9,
@@ -81,7 +81,7 @@ function App() {
       designation: "Admin",
       phone: "+91 80864 99444",
       email: "admin@racpartners.in",
-      withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png"
+      withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png"
     },
     {
       id: 10,
@@ -90,7 +90,7 @@ function App() {
       designation: "Connect",
       phone: "+91 80864 99444",
       email: "connect@racpartners.in",
-      withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png"
+      withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png"
     },
     {
       id: 11,
@@ -99,7 +99,7 @@ function App() {
       designation: "Accounts",
       phone: "+91 90615 96000",
       email: "accounts@racpartners.in",
-      withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png"
+      withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png"
     },
 
     // ─── IP Department ───
@@ -110,8 +110,8 @@ function App() {
       designation: "Head of Sales",
       phone: "+91 964 551 2000 ",
       email: "jasira@racpartners.in",
-      image: "https://racstartup.com/wp-content/uploads/2026/07/Group-42-2.png",
-      withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
+      image: "https://racpartners.in/wp-content/uploads/2026/07/Group-42-2.png",
+      withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png",
       department: "ip"
     },
     {
@@ -121,8 +121,8 @@ function App() {
       designation: "IP Advisor",
       phone: "+91 7034182000",
       email: "sharmina@racpartners.in",
-      image: "https://racstartup.com/wp-content/uploads/2026/07/Group-45-3.png",
-      withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
+      image: "https://racpartners.in/wp-content/uploads/2026/07/Group-45-3.png",
+      withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png",
       department: "ip"
     },
     {
@@ -132,8 +132,8 @@ function App() {
       designation: "IP Advisor",
       phone: "+91 8943548000",
       email: "rahnas@racpartners.in",
-      image: "https://racstartup.com/wp-content/uploads/2026/07/Group-45-4.png",
-      withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
+      image: "https://racpartners.in/wp-content/uploads/2026/07/Group-45-4.png",
+      withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png",
       department: "ip"
     },
     {
@@ -143,18 +143,18 @@ function App() {
       designation: "IP Advisor",
       phone: "+91 9048731000  ",
       email: "afnas@racpartners.in",
-      image: "https://racstartup.com/wp-content/uploads/2026/07/Group-45-1.png",
-      withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
+      image: "https://racpartners.in/wp-content/uploads/2026/07/Group-45-1.png",
+      withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png",
       department: "ip"
     }, {
-      id: 15,
+      id: 19,
       Firstname: "",
       Secondname: "VISMAYA T ",
       designation: "IP Advisor",
       phone: "+91 8943598000",
       email: "racvismaya@gmail.com",
-       image:"https://racstartup.com/wp-content/uploads/2026/07/rac-vismaya.png",
-      withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
+       image:"https://racpartners.in/wp-content/uploads/2026/07/rac-vismaya.png",
+      withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png",
       department: "ip"
     },
     {
@@ -164,8 +164,8 @@ function App() {
       designation: "IP Advisor",
       phone: "+91 9061035000",
       email: " nabeelalirac@gmail.com ",
-     image:"https://racstartup.com/wp-content/uploads/2026/07/nabeel.png",
-      withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
+     image:"https://racpartners.in/wp-content/uploads/2026/07/nabeel.png",
+      withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png",
       department: "ip"
     },
 
@@ -177,8 +177,8 @@ function App() {
       designation: "IP Advisor",
       phone: "+91 9544178000",
       email: "",
-      image: "https://racstartup.com/wp-content/uploads/2026/07/Group-45.png",
-      withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
+      image: "https://racpartners.in/wp-content/uploads/2026/07/Group-45.png",
+      withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png",
       department: "ip"
     },
 
@@ -190,8 +190,8 @@ function App() {
       designation: "IT Manager",
       phone: "+91 735 600 4150",
       email: "shafeeq@racpartners.in",
-      image: "https://racstartup.com/wp-content/uploads/2026/06/Group-42.png",
-      withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
+      image: "https://racpartners.in/wp-content/uploads/2026/06/Group-42.png",
+      withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png",
       department: "it"
     },
     {
@@ -201,8 +201,8 @@ function App() {
       designation: "Junior Developer",
       phone: "+91 8590999526",
       email: "mohammed.shibili@racpartners.in",
-      image: "https://racstartup.com/wp-content/uploads/2026/07/shibili.png",
-      withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
+      image: "https://racpartners.in/wp-content/uploads/2026/07/shibili.png",
+      withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png",
       department: "it"
     },
     {
@@ -213,7 +213,7 @@ function App() {
   phone: "",
   email: "adarsh.ps@racpartners.in",
 
-  withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
+  withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png",
   
     }
 
@@ -227,7 +227,7 @@ function App() {
     //   phone: "",
     //   email: "",
     //   image: "",
-    //   withoutimage: "https://racstartup.com/wp-content/uploads/2026/07/Group-44.png",
+    //   withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png",
     //   department: "it"
     // },
   ]

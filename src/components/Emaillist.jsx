@@ -9,8 +9,8 @@ const signatureWithImage = (employee) => `
   style="width:700px; max-width:700px; border-collapse:collapse; font-family:'Raleway',Arial,Helvetica,sans-serif;">
 
   <tr>
-    <td background="https://racstartup.com/wp-content/uploads/2026/06/image-11-scaled.png" bgcolor="#0a0a0a" valign="top" width="700"
-        style="background-color:#0a0a0a; background-image:url('https://racstartup.com/wp-content/uploads/2026/06/image-11-scaled.png'); background-position:center center; background-repeat:no-repeat; background-size:cover;">
+    <td background="https://racpartners.in/wp-content/uploads/2026/06/image-11-scaled.png" bgcolor="#0a0a0a" valign="top" width="700"
+        style="background-color:#0a0a0a; background-image:url('https://racpartners.in/wp-content/uploads/2026/06/image-11-scaled.png'); background-position:center center; background-repeat:no-repeat; background-size:cover;">
       <div style="padding:20px 20px;">
         <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="width:100%;">
           <tr>
@@ -18,7 +18,7 @@ const signatureWithImage = (employee) => `
               <table role="presentation" cellpadding="0" cellspacing="0" border="0" height="118" style="height:118px;">
                 <tr>
                   <td valign="top" style="padding:0;">
-                    <img src="https://racstartup.com/wp-content/uploads/2026/06/RAC_New_Logo-1-1.png" width="58" alt="RAC" style="display:block; width:75px; height:auto; border:0;" />
+                    <img src="https://racpartners.in/wp-content/uploads/2026/06/RAC_New_Logo-1-1.png" width="58" alt="RAC" style="display:block; width:75px; height:auto; border:0;" />
                   </td>
                 </tr>
                 <tr>
@@ -28,28 +28,28 @@ const signatureWithImage = (employee) => `
                         <td width="28" height="28" align="center" valign="middle" bgcolor="#ffffff"
                             style="width:28px; height:28px; border-radius:6px;">
                           <a href="https://www.facebook.com/racverse" target="_blank" style="text-decoration:none;">
-                            <img src="https://racstartup.com/wp-content/uploads/2026/06/facebook-rounded-svgrepo-com-1.png" width="15" height="15" alt="Facebook" style="width:30px; height:30px; vertical-align:middle; border:0;" />
+                            <img src="https://racpartners.in/wp-content/uploads/2026/06/facebook-rounded-svgrepo-com-1.png" width="15" height="15" alt="Facebook" style="width:30px; height:30px; vertical-align:middle; border:0;" />
                           </a>
                         </td>
                         <td width="8" style="width:8px; font-size:0; line-height:0;">&nbsp;</td>
                         <td width="28" height="28" align="center" valign="middle" bgcolor="#ffffff"
                             style="width:28px; height:28px; background-color:#ffffff; border-radius:6px;">
                           <a href="https://www.instagram.com/rac_global/" target="_blank" style="text-decoration:none;">
-                            <img src="https://racstartup.com/wp-content/uploads/2026/06/instagram-logo-facebook-svgrepo-com-1-3.png" width="16" height="16" alt="Instagram" style="width:30px; height:30px; vertical-align:middle; border:0;" />
+                            <img src="https://racpartners.in/wp-content/uploads/2026/06/instagram-logo-facebook-svgrepo-com-1-3.png" width="16" height="16" alt="Instagram" style="width:30px; height:30px; vertical-align:middle; border:0;" />
                           </a>
                         </td>
                         <td width="8" style="width:8px; font-size:0; line-height:0;">&nbsp;</td>
                         <td width="28" height="28" align="center" valign="middle" bgcolor="#ffffff"
                             style="width:28px; height:28px; border-radius:6px;">
                           <a href="https://www.linkedin.com/company/royalassetsgroupofcompanies/" target="_blank" style="text-decoration:none;">
-                            <img src="https://racstartup.com/wp-content/uploads/2026/06/linkedin-svgrepo-com-1.png" width="15" height="15" alt="LinkedIn" style="width:30px; height:30px; vertical-align:middle; border:0;" />
+                            <img src="https://racpartners.in/wp-content/uploads/2026/06/linkedin-svgrepo-com-1.png" width="15" height="15" alt="LinkedIn" style="width:30px; height:30px; vertical-align:middle; border:0;" />
                           </a>
                         </td>
                         <td width="8" style="width:8px; font-size:0; line-height:0;">&nbsp;</td>
                         <td width="28" height="28" align="center" valign="middle" bgcolor="#ffffff"
                             style="width:28px; height:28px; border-radius:6px;">
                           <a href="https://www.youtube.com/@racverse" target="_blank" style="text-decoration:none;">
-                            <img src="https://racstartup.com/wp-content/uploads/2026/06/youtube-rounded-svgrepo-com-1.png" width="15" height="15" alt="YouTube" style="width:30px; height:30px; vertical-align:middle; border:0;" />
+                            <img src="https://racpartners.in/wp-content/uploads/2026/06/youtube-rounded-svgrepo-com-1.png" width="15" height="15" alt="YouTube" style="width:30px; height:30px; vertical-align:middle; border:0;" />
                           </a>
                         </td>
                       </tr>
@@ -66,7 +66,7 @@ const signatureWithImage = (employee) => `
                       <tr>
                         <td>
                           <a href="https://racstartup.com" target="_blank" style="display:inline-block; vertical-align:middle; font-family:Arial,Helvetica,sans-serif; font-size:12px; font-weight:bold; color:#000000; text-decoration:none;">
-                            <img src="https://racstartup.com/wp-content/uploads/2026/06/Group-42-1.png" alt="RAC" style="width:100px; height:auto;" />
+                            <img src="https://racpartners.in/wp-content/uploads/2026/06/Group-42-1.png" alt="RAC" style="width:100px; height:auto;" />
                           </a>
                         </td>
                       </tr>
@@ -128,8 +128,8 @@ const signatureWithoutImage = (employee) => `
   style="width:700px; max-width:700px; border-collapse:collapse; font-family:'Raleway',Arial,Helvetica,sans-serif;">
 
   <tr>
-    <td background="https://racstartup.com/wp-content/uploads/2026/06/image-11-scaled.png" bgcolor="#0a0a0a" valign="top" width="700"
-        style="background-color:#0a0a0a; background-image:url('https://racstartup.com/wp-content/uploads/2026/06/image-11-scaled.png'); background-position:center center; background-repeat:no-repeat; background-size:cover;">
+    <td background="https://racpartners.in/wp-content/uploads/2026/06/image-11-scaled.png" bgcolor="#0a0a0a" valign="top" width="700"
+        style="background-color:#0a0a0a; background-image:url('https://racpartners.in/wp-content/uploads/2026/06/image-11-scaled.png'); background-position:center center; background-repeat:no-repeat; background-size:cover;">
       <div style="padding:20px 20px;">
         <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="width:100%;">
           <tr>
@@ -137,7 +137,7 @@ const signatureWithoutImage = (employee) => `
               <table role="presentation" cellpadding="0" cellspacing="0" border="0" height="118" style="height:118px;">
                 <tr>
                   <td valign="top" style="padding:0;">
-                    <img src="https://racstartup.com/wp-content/uploads/2026/06/RAC_New_Logo-1-1.png" width="58" alt="RAC" style="display:block; width:75px; height:auto; border:0;" />
+                    <img src="https://racpartners.in/wp-content/uploads/2026/06/RAC_New_Logo-1-1.png" width="58" alt="RAC" style="display:block; width:75px; height:auto; border:0;" />
                   </td>
                 </tr>
                 <tr>
@@ -147,28 +147,28 @@ const signatureWithoutImage = (employee) => `
                         <td width="28" height="28" align="center" valign="middle" bgcolor="#ffffff"
                             style="width:28px; height:28px; border-radius:6px;">
                           <a href="https://www.facebook.com/racverse" target="_blank" style="text-decoration:none;">
-                            <img src="https://racstartup.com/wp-content/uploads/2026/06/facebook-rounded-svgrepo-com-1.png" width="15" height="15" alt="Facebook" style="width:30px; height:30px; vertical-align:middle; border:0;" />
+                            <img src="https://racpartners.in/wp-content/uploads/2026/06/facebook-rounded-svgrepo-com-1.png" width="15" height="15" alt="Facebook" style="width:30px; height:30px; vertical-align:middle; border:0;" />
                           </a>
                         </td>
                         <td width="8" style="width:8px; font-size:0; line-height:0;">&nbsp;</td>
                         <td width="28" height="28" align="center" valign="middle" bgcolor="#ffffff"
                             style="width:28px; height:28px; background-color:#ffffff; border-radius:6px;">
                           <a href="https://www.instagram.com/rac_global/" target="_blank" style="text-decoration:none;">
-                            <img src="https://racstartup.com/wp-content/uploads/2026/06/instagram-logo-facebook-svgrepo-com-1-3.png" width="16" height="16" alt="Instagram" style="width:30px; height:30px; vertical-align:middle; border:0;" />
+                            <img src="https://racpartners.in/wp-content/uploads/2026/06/instagram-logo-facebook-svgrepo-com-1-3.png" width="16" height="16" alt="Instagram" style="width:30px; height:30px; vertical-align:middle; border:0;" />
                           </a>
                         </td>
                         <td width="8" style="width:8px; font-size:0; line-height:0;">&nbsp;</td>
                         <td width="28" height="28" align="center" valign="middle" bgcolor="#ffffff"
                             style="width:28px; height:28px; border-radius:6px;">
                           <a href="https://www.linkedin.com/company/royalassetsgroupofcompanies/" target="_blank" style="text-decoration:none;">
-                            <img src="https://racstartup.com/wp-content/uploads/2026/06/linkedin-svgrepo-com-1.png" width="15" height="15" alt="LinkedIn" style="width:30px; height:30px; vertical-align:middle; border:0;" />
+                            <img src="https://racpartners.in/wp-content/uploads/2026/06/linkedin-svgrepo-com-1.png" width="15" height="15" alt="LinkedIn" style="width:30px; height:30px; vertical-align:middle; border:0;" />
                           </a>
                         </td>
                         <td width="8" style="width:8px; font-size:0; line-height:0;">&nbsp;</td>
                         <td width="28" height="28" align="center" valign="middle" bgcolor="#ffffff"
                             style="width:28px; height:28px; border-radius:6px;">
                           <a href="https://www.youtube.com/@racverse" target="_blank" style="text-decoration:none;">
-                            <img src="https://racstartup.com/wp-content/uploads/2026/06/youtube-rounded-svgrepo-com-1.png" width="15" height="15" alt="YouTube" style="width:30px; height:30px; vertical-align:middle; border:0;" />
+                            <img src="https://racpartners.in/wp-content/uploads/2026/06/youtube-rounded-svgrepo-com-1.png" width="15" height="15" alt="YouTube" style="width:30px; height:30px; vertical-align:middle; border:0;" />
                           </a>
                         </td>
                       </tr>
@@ -185,7 +185,7 @@ const signatureWithoutImage = (employee) => `
                       <tr>
                         <td>
                           <a href="https://racstartup.com" target="_blank" style="display:inline-block; vertical-align:middle; font-family:Arial,Helvetica,sans-serif; font-size:12px; font-weight:bold; color:#000000; text-decoration:none;">
-                            <img src="https://racstartup.com/wp-content/uploads/2026/06/Group-42-1.png" alt="RAC" style="width:100px; height:auto;" />
+                            <img src="https://racpartners.in/wp-content/uploads/2026/06/Group-42-1.png" alt="RAC" style="width:100px; height:auto;" />
                           </a>
                         </td>
                       </tr>
