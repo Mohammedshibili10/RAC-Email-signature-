@@ -55,7 +55,7 @@ function App() {
       withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png"
     },
     {
-      id: 15-m ,
+      id: 15 ,
       Firstname: "Muhammed ",
       Secondname: "Mujaddid kk",
       designation: "Legal & Documentation officer",
