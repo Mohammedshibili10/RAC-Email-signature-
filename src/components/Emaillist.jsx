@@ -65,8 +65,8 @@ const signatureWithImage = (employee) => `
                     <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="right" bgcolor="#ffffff" style="background-color:#ffffff; border-radius:9999px;">
                       <tr>
                         <td>
-                          <a href="https://racstartup.com" target="_blank" style="display:inline-block; vertical-align:middle; font-family:Arial,Helvetica,sans-serif; font-size:12px; font-weight:bold; color:#000000; text-decoration:none;">
-                            <img src="https://racpartners.in/wp-content/uploads/2026/06/Group-42-1.png" alt="RAC" style="width:100px; height:auto;" />
+                          <a href="https://racpartners.in" target="_blank" style="display:inline-block; vertical-align:middle; font-family:Arial,Helvetica,sans-serif; font-size:12px; font-weight:bold; color:#000000; text-decoration:none;">
+                            <img src="https://racpartners.in/wp-content/uploads/2026/08/Group-37.png" alt="RAC" style="width:100px; height:auto;" />
                           </a>
                         </td>
                       </tr>

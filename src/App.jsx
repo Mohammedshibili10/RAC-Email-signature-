@@ -41,7 +41,7 @@ function App() {
       designation: "Operations Manager",
       phone: "+91 80751 97908",
       email: "rajath@racpartners.in",
-      image: "https://racpartners.in/wp-content/uploads/2026/07/rejith.png",
+      image: "https://racpartners.in/wp-content/uploads/2026/08/Group-45-6.png",
       withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png"
     },
     {
@@ -61,7 +61,7 @@ function App() {
       designation: "Legal & Documentation officer",
       phone: "+91 90615 96000",
       email: "accounts@racpartners.in",
-      image: "https://racpartners.in/wp-content/uploads/2026/07/mujaddid.png",
+      image: "https://racpartners.in/wp-content/uploads/2026/08/Group-45-5.png",
       withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png"
     },
     {
