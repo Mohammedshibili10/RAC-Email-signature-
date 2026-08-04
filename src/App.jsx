@@ -8,6 +8,7 @@ import Login from './components/Login'
 const DEPARTMENTS = [
   { id: 'ip', label: 'IP Department' },
   { id: 'it', label: 'IT Department' },
+  { id: 'marketing', label: 'Marketing Department' },
 ]
 
 function App() {
