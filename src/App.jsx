@@ -222,7 +222,7 @@ function App() {
      id: 20,
      Firstname: "",
      Secondname: "NASHVA M P",
-     designation: "SOCIAL MEDIA EXECUTIVE",
+     designation: "Social Media Executive",
      phone: "+91 80864 99444",
      email: "nashva@racpartners.in",
      image: "https://racpartners.in/wp-content/uploads/2026/08/Group-45-7.png",
