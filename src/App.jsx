@@ -214,6 +214,7 @@ function App() {
   email: "adarsh.ps@racpartners.in",
 
   withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png",
+  department: "marketing"
   
     },
     {
