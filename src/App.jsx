@@ -215,7 +215,18 @@ function App() {
 
   withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png",
   
-    }
+    },
+    {
+     id: 20,
+     Firstname: "",
+     Secondname: "NASHVA M P",
+     designation: "SOCIAL MEDIA EXECUTIVE",
+     phone: "+91 80864 99444",
+     email: "nashva@racpartners.in",
+     image: "https://racpartners.in/wp-content/uploads/2026/08/Group-45-7.png",
+     withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png",
+     department: "marketing"
+    },
 
     // Add more IT Department employees below, keeping department: "it".
     // Omit `image` for a without-image-only signature.
