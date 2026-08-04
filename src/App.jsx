@@ -39,7 +39,7 @@ function App() {
       Firstname: "",
       Secondname: "Rajath S",
       designation: "Operations Manager",
-      phone: "+91 80751 97908",
+      phone: "+91 8594097222",
       email: "rajath@racpartners.in",
       image: "https://racpartners.in/wp-content/uploads/2026/08/Group-45-6.png",
       withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png"
