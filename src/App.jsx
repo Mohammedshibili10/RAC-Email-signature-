@@ -69,7 +69,7 @@ function App() {
       id: 8,
       Firstname: "",
       Secondname: "Adarsh E M",
-      designation: "Startup Intake Coordinator",
+      designation: "Project Coordinator",
       phone: "+91 70340 23111",
       email: "adarsh@racpartners.in",
       image: "https://racpartners.in/wp-content/uploads/2026/07/rac-adarsh.png",
