@@ -209,7 +209,7 @@ function App() {
     {
  id: 7,
   Firstname: "",
-  Secondname: "ADARSH.PS",
+  Secondname: "ADARSH PS",
   designation: "Marketing Manager",
   phone: "+91 8594-097888",
   email: "adarsh.ps@racpartners.in",
