@@ -76,7 +76,7 @@ const signatureWithImage = (employee) => `
                 <tr>
                   <td valign="bottom" align="right" style="padding-top:10px;">
                     <div style="font-family:'Raleway',Arial,Helvetica,sans-serif; font-size:24px; line-height:30px; font-weight:300; color:#ffffff; text-align:right;">
-                      We build.<br /> We operate.<br />We scale.
+                      Build.<br />  Operate.<br /> Scale.
                     </div>
                   </td>
                 </tr>
@@ -195,7 +195,7 @@ const signatureWithoutImage = (employee) => `
                 <tr>
                   <td valign="bottom" align="right" style="padding-top:10px;">
                     <div style="font-family:'Raleway',Arial,Helvetica,sans-serif; font-size:24px; line-height:30px; font-weight:300; color:#ffffff; text-align:right;">
-                      We build.<br /> We operate.<br />We scale.
+                      Build.<br />  Operate.<br /> Scale.
                     </div>
                   </td>
                 </tr>
