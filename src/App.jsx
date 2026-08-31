@@ -60,7 +60,7 @@ function App() {
       Firstname: "Muhammed ",
       Secondname: "Mujaddid kk",
       designation: "Legal & Documentation officer",
-      phone: "+91 90615 96000",
+      phone: "+91 8943138000",
       email: "accounts@racpartners.in",
       image: "https://racpartners.in/wp-content/uploads/2026/08/Group-45-5.png",
       withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png"
