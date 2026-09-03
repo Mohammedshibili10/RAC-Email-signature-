@@ -18,7 +18,7 @@ function App() {
     {
       id: 1,
       Firstname: "Shibili ",
-      Secondname: "Rahman K p",
+      Secondname: "Rahiman K p",
       designation: "Chairman",
       phone: "+91 73064 52529",
       email: "shibilirahiman.sr@racpartners.in",
