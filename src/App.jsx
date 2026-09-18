@@ -229,6 +229,17 @@ function App() {
      withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png",
      department: "marketing"
     },
+    {
+      id: 21,
+      Firstname: "",
+      Secondname: "Amalraj S",
+      designation: "Business Analyst",
+      phone: "+91 77365 30949",
+      email: "data@racpartners.in",
+      image: "",
+      withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png",
+     
+    }
 
     // Add more IT Department employees below, keeping department: "it".
     // Omit `image` for a without-image-only signature.
