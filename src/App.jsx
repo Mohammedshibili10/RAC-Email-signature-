@@ -239,6 +239,17 @@ function App() {
       image: "",
       withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png",
      
+    },
+      {
+      id: 22,
+      Firstname: "Navas",
+      Secondname: "Shereef P V",
+      designation: "Lead & Regional Operations Manager",
+      phone: "+91 9108271868",
+      email: "Navas@racpartners.in",
+      image: "https://racpartners.in/wp-content/uploads/2026/10/Group-42-1.png",
+      withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png",
+     
     }
 
     // Add more IT Department employees below, keeping department: "it".
