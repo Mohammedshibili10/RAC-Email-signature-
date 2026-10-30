@@ -245,7 +245,7 @@ function App() {
       Firstname: "Navas",
       Secondname: "Shereef P V",
       designation: "Lead & Regional Operations Manager",
-      phone: "+91 9108271868",
+      phone: "+91 7025178000",
       email: "Navas@racpartners.in",
       image: "https://racpartners.in/wp-content/uploads/2026/10/Group-42-1.png",
       withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png",
