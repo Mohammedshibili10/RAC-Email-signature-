@@ -56,7 +56,7 @@ function App() {
       withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png"
     },
     {
-      id: 15 ,
+      id: 15,
       Firstname: "Muhammed ",
       Secondname: "Mujaddid kk",
       designation: "Legal & Documentation officer",
@@ -154,7 +154,7 @@ function App() {
       designation: "IP Advisor",
       phone: "+91 8943598000",
       email: "racvismaya@gmail.com",
-       image:"https://racpartners.in/wp-content/uploads/2026/07/rac-vismaya.png",
+      image: "https://racpartners.in/wp-content/uploads/2026/07/rac-vismaya.png",
       withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png",
       department: "ip"
     },
@@ -165,7 +165,7 @@ function App() {
       designation: "IP Advisor",
       phone: "+91 9061035000",
       email: " nabeelalirac@gmail.com ",
-     image:"https://racpartners.in/wp-content/uploads/2026/07/nabeel.png",
+      image: "https://racpartners.in/wp-content/uploads/2026/07/nabeel.png",
       withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png",
       department: "ip"
     },
@@ -207,27 +207,27 @@ function App() {
       department: "it"
     },
     {
- id: 7,
-  Firstname: "",
-  Secondname: "ADARSH PS",
-  designation: "Marketing Manager",
-  phone: "+91 8594-097888",
-  email: "adarsh.ps@racpartners.in",
+      id: 7,
+      Firstname: "",
+      Secondname: "ADARSH PS",
+      designation: "Marketing Manager",
+      phone: "+91 8594-097888",
+      email: "adarsh.ps@racpartners.in",
 
-  withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png",
-  department: "marketing"
-  
+      withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png",
+      department: "marketing"
+
     },
     {
-     id: 20,
-     Firstname: "",
-     Secondname: "NASHVA M P",
-     designation: "Social Media Executive",
-     phone: "+91 80864 99444",
-     email: "nashva@racpartners.in",
-     image: "https://racpartners.in/wp-content/uploads/2026/08/Group-45-7.png",
-     withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png",
-     department: "marketing"
+      id: 20,
+      Firstname: "",
+      Secondname: "NASHVA M P",
+      designation: "Social Media Executive",
+      phone: "+91 80864 99444",
+      email: "nashva@racpartners.in",
+      image: "https://racpartners.in/wp-content/uploads/2026/11/neshva.png",
+      withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png",
+      department: "marketing"
     },
     {
       id: 21,
@@ -238,9 +238,9 @@ function App() {
       email: "data@racpartners.in",
       image: "",
       withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png",
-     
+
     },
-      {
+    {
       id: 22,
       Firstname: "Navas",
       Secondname: "Shereef P V",
@@ -249,7 +249,7 @@ function App() {
       email: "Navas@racpartners.in",
       image: "https://racpartners.in/wp-content/uploads/2026/10/Group-42-1.png",
       withoutimage: "https://racpartners.in/wp-content/uploads/2026/07/Group-44.png",
-     
+
     }
 
     // Add more IT Department employees below, keeping department: "it".
